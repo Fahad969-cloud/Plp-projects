@@ -73,7 +73,7 @@ Portfolio website project
 <body>
 
 <header>
-    <img src="placeholder.jpg" alt="Your Photo" />
+    <img src="WhatsApp Image 2024-11-24 at 11.41.24 PM (2).jpeg" alt="Your Photo" />
     <h1>Fahad's Portfolio</h1>
     <nav>
         <a href="#about">About Me</a>
@@ -92,7 +92,7 @@ Portfolio website project
 
 <section id="education">
     <h2>Educational Background</h2>
-    <p>I have a solid educational background in web development and programming, which has provided me with the foundational skills to succeed in this field.</p>
+    <p>I am doing bachelor of commerce.I am also pursuing software engeneering at plp projects.</p>
 </section>
 
 <section id="interests">
@@ -106,7 +106,7 @@ Portfolio website project
     <ul>
         <li><strong>Portfolio Website:</strong> A personal website showcasing my work and experience.</li>
         <li><strong>E-commerce Website:</strong> Built a fully functional online store using HTML, CSS, and JavaScript.</li>
-        <li><strong>Weather App:</strong> A weather forecasting app using APIs and responsive design.</li>
+    
     </ul>
 </section>
 
